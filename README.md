@@ -4,10 +4,10 @@ This is the code for "Building Change Detection using Cross-temporal Feature Int
 
 ## **Visual results**
 ### Visualization of feature maps taking bi-temporal RS images from LEVIR-CD as example.
-![image](https://github.com/ZhengJianwei2/CTFINet/blob/main/images/vis.png)  
+<img src="https://github.com/ZhengJianwei2/CTFINet/blob/main/images/vis.png" width="1000px">
 
 ### Architecture of the proposed CTFINet
-![image](https://github.com/ZhengJianwei2/CTFINet/blob/main/images/model.png)  
+<img src="https://github.com/ZhengJianwei2/CTFINet/blob/main/images/model.png" width="1000px">
 
 ## **Quantitative results**
 ###  Comparison results on detection of building changes. 
