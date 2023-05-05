@@ -1,6 +1,6 @@
 # CTFINet
 
-This is the code for "Building Change Detection using Cross-temporal Feature Interaction Network", currently submitting to ICASSP 2023. Based on a naive backbone (ResNet18) without sophisticated structures, our model outperforms other state-of-the-art methods on three datasets in terms of both efficiency and effectiveness. If you you encounter any doubts, please fell free to concact us: fyc@zjut.edu.cn or zjw@zjut.edu.cn.
+This is the code for "Building Change Detection using Cross-temporal Feature Interaction Network", which was accepted by ICASSP 2023. Based on a naive backbone (ResNet18) without sophisticated structures, our model outperforms other state-of-the-art methods on three datasets in terms of both efficiency and effectiveness. If you you encounter any doubts, please fell free to concact us: fyc@zjut.edu.cn or zjw@zjut.edu.cn.
 
 ## **Visual results**
 ### Visualization of feature maps taking bi-temporal RS images from LEVIR-CD as example.
